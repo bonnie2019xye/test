@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-halloween ar-1.0";
 const contentToCache = [
     "Build/webtest.loader.js",
-    "Build/webtest.framework.js.unityweb",
-    "Build/webtest.data.unityweb",
-    "Build/webtest.wasm.unityweb",
+    "Build/webtest.framework.js",
+    "Build/webtest.data",
+    "Build/webtest.wasm",
     "TemplateData/style.css"
 
 ];
